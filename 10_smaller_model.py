@@ -1,4 +1,4 @@
-# Binary Classification with Sonar Dataset: Standardized
+# Binary Classification with Sonar Dataset: Standardized Smaller
 from pandas import read_csv
 from tensorflow.keras.models import Sequential
 from tensorflow.keras.layers import Dense
